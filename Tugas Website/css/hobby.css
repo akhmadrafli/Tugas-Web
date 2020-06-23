@@ -1,0 +1,27 @@
+header {
+    background-color:crimson;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+  }
+  nav {
+    float: left;
+    width: 20%;
+    height: 450px; 
+    background:whitesmoke;
+    padding: 20px;
+    font-size: 20px;
+  }
+  nav ul>{
+list-style-type: none;
+padding: 0;
+color:blue;
+text-decoration: underline;
+  }
+  footer {
+    text-align: center;
+    background-color:brown;
+    padding: 50px;
+    color: white;
+  }
